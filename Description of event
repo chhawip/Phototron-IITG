@@ -1,0 +1,7 @@
+The event took place in IIT Guwahati and it was a wonderful experience. The event was made to test Image processing skills. The arena was
+enclosed in four walls and each of the wall had a shape. We were asked to recognize the shape on the top of the dice and then match it
+with each of the shape given in the wall. If the shape matches then the bot will move in the direction of the shape and rotate and come
+back to the midlle, else it will rotate on it's point to match the other shape on the wall with the shape found on the dice. All this is
+done with the help of Image processing techniques.
+
+The image of arena and the official problem statement of Phototron is attached.
